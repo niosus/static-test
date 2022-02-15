@@ -1,5 +1,6 @@
 # Static test playground
 
+⚠️ The code is just an experiment. Compiles and runs on Ubuntu 20.04. Work with other systems is not guaranteed. ⚠️
 
 ## What is a static test
 
